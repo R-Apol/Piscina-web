@@ -1,0 +1,12 @@
+table 
+{
+    height: 100vh;
+}
+#th1
+{
+    background-color: aqua; padding: 120px 160px; border: 2px solid black; width: 100vw;
+}
+#th2
+{
+    background-color: blueviolet; padding: 120px 160px; border: 2px solid black; width: 100vw;
+}
